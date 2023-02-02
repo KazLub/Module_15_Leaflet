@@ -1,0 +1,13 @@
+/* REMOCING MARGIN AND PADDING  */
+body {
+    padding: 0;
+    margin: 0;
+  }
+  
+  /* SETTING WEB TO 100% OF THE SCREEN  */
+  #map,
+  body,
+  html {
+    height: 100%;
+  }
+  
